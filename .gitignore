@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Database
+*.db
+*.sqlite3
+smoke_test.db
+smoke_test_uploads/
+
+# Uploaded resumes (keep the folder)
+backend/uploads/resumes/*
+!backend/uploads/resumes/.gitkeep
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
