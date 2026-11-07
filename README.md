@@ -31,8 +31,6 @@ A role-based placement management platform that connects **candidates**, **recru
 16. [Security Considerations](#security-considerations)
 17. [Troubleshooting](#troubleshooting)
 18. [Contribution Guidelines](#contribution-guidelines)
-19. [License](#license)
-
 ---
 
 ## Project Overview
