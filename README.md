@@ -599,8 +599,3 @@ Contributions are welcome.
 6. Never commit `.env`, database files, or uploaded resumes.
 7. Commit with a clear message and open a pull request describing what changed and why.
 
----
-
-## License
-
-No license has been specified for this project. Until the owner adds a license file, all rights are reserved by default and others may not legally reuse the code. If you are the owner and want to make the project open source, add a `LICENSE` file (for example via GitHub's **Add file → Create new file → `LICENSE`** template picker) and update this section.
