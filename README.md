@@ -14,7 +14,7 @@ recruiters post jobs and manage applicants, and admins manage the platform.
 
 ### 1. Open the project
 
-In VS Code: **File → Open Folder… → `Talent hub`**.
+In VS Code: **File → Open Folder… → `TALENTHUB1`**.
 
 Open two terminals (**Terminal → New Terminal**) and use PowerShell for both.
 
@@ -118,7 +118,7 @@ To register an admin yourself, use the invite code from `backend/.env`
 ## Project structure
 
 ```
-Talent hub/
+TALENTHUB1/
 ├── README.md
 ├── RULES.md                       ← every business rule, code location and error
 ├── .gitignore
